@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  CoreDateExample
+//  CoreDataExample
 //
 //  Created by Lukas Mohs on 26.09.17.
 //  Copyright © 2017 Lukas Mohs. All rights reserved.
